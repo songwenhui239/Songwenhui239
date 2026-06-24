@@ -1,3 +1,3 @@
 EXTM3U
-EXTINF:-1 tvg-id="OzonoTV.pe" tvg-name="OzonoTV tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Ozono%20TV.png" group-title="pe",Ozono TV
+EXTINF:-1 tvg-id="OzonoTV.pe" tvg-name="Ozono TV" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Ozono%20TV.png" group-title="pe",Ozono TV
 http://vps.chasquirouter.com/salida/ozono.m3u8
