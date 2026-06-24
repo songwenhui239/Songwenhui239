@@ -5,3 +5,5 @@ https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="ThaiPBS" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/ThaiPBS.webp" group-title="th",ThaiPBS
 https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiTV5.th" tvg-name="ThaiTV5" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/ThaiTV5.webp" group-title="th",ThaiTV5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
